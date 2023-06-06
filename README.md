@@ -1,5 +1,6 @@
 <span align="left">
-  <h1>Hi thereI am Dnyaneshwar Wagh 👨‍💻from Nashik, India.</h1>
+  <h3>Hi there </h3>
+    <h1>I am Dnyaneshwar Wagh 👨‍💻from Nashik, India.</h1>
  <p>I am a detail-oriented Full Stack Web Developer with excellent technical skills, and proficiency in MERN stack. Extremely passionate about building appealing and dynamic products that provide great user experiences. Looking forward to creating a mark within a product-based company based on the acquired skillset and passion for coding.
 </p>
  
