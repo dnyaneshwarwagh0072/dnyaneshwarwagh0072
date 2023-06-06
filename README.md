@@ -1,5 +1,5 @@
 
-![logo](https://github.com/dnyaneshwarwagh0072/dnyaneshwarwagh0072/assets/85550894/5db35562-aa59-4760-b41a-eaa54441d7e7)
+![logo](Blue Geometric Technology LinkedIn Banner.png)
 <span align="left">
  <h13>Hi there<h3>, <h1>I am Dnyaneshwar Wagh 👨‍💻<h1><h3>from Nashik, India.</h3>
  
