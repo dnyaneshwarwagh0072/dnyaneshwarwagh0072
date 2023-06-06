@@ -19,6 +19,6 @@
  
  <div align="center" display="flex" href="https://github.com/Iammonis">
  
- <img align="center" margin=10 src="https://github-readme-stats.vercel.app/api?username=Dnyaneshwat Wagh&title_color=fff&text_color=fff&show_icons=true&count_private=true&bg_color=130,5d37c5,0e1eaa,319197&include_all_commits=true"       alt="Prasad's github stats" />
+ <img align="center" margin=10 src="https://github-readme-stats.vercel.app/api?username=Dnyaneshwat Wagh&title_color=fff&text_color=fff&show_icons=true&count_private=true&bg_color=130,5d37c5,0e1eaa,319197&include_all_commits=true"       alt="Dnyaneshwar github status" />
  
    <img align="center" margin=10  src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasadbirari&count_private=true&theme=light&layout=compact">
