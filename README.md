@@ -1,5 +1,5 @@
 
-![logo](Blue Geometric Technology LinkedIn Banner.png)
+![logo](bg.png)
 <span align="left">
  <h13>Hi there<h3>, <h1>I am Dnyaneshwar Wagh 👨‍💻<h1><h3>from Nashik, India.</h3>
  
