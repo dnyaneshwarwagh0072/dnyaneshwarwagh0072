@@ -5,7 +5,7 @@
 </p>
  
 <a href='https://www.linkedin.com/in/dnyaneshwar-yadav-wagh-690455279' target='_blank'><img src="https://i.imgur.com/Hy9wWnN.png" width="50" height="50" /></a>
-<a href='mailto:dwagh0072@gmail.com' target='_blank'><img src="https://i.imgur.com/5DedS9w.png" width="50" height="50" /></a>
+<a href='mailto:dwagh2739@gmail.com' target='_blank'><img src="https://i.imgur.com/5DedS9w.png" width="50" height="50" /></a>
 <a href='https://www.linkedin.com/in/dnyaneshwar-wagh-690455279/' target='_blank'><img src="https://i.imgur.com/R1dQaGF.png" width="50" height="50" /></a>
 
 
