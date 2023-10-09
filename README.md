@@ -4,6 +4,9 @@
  <p>I am a detail-oriented Full Stack Web Developer with excellent technical skills, and proficiency in MERN stack. Extremely passionate about building appealing and dynamic products that provide great user experiences. Looking forward to creating a mark within a product-based company based on the acquired skillset and passion for coding.
 </p>
  
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e4a569755580f96dce0e6d65bc761e0d9aef0fecae524ec73a1b0be60fc934fa/68747470733a2f2f7777772e6d79676f2e67652f75706c6f6164732f626c6f672f313538343032333739352e6a7067"><img width="320px" height="270px" align="right" src="https://camo.githubusercontent.com/e4a569755580f96dce0e6d65bc761e0d9aef0fecae524ec73a1b0be60fc934fa/68747470733a2f2f7777772e6d79676f2e67652f75706c6f6164732f626c6f672f313538343032333739352e6a7067" style="max-width: 100%;"></a>
+
+  
 <a href='https://www.linkedin.com/in/dnyaneshwar-yadav-wagh-690455279' target='_blank'><img src="https://i.imgur.com/Hy9wWnN.png" width="50" height="50" /></a>
 <a href='mailto:dwagh2739@gmail.com' target='_blank'><img src="https://i.imgur.com/5DedS9w.png" width="50" height="50" /></a>
 <a href='https://www.linkedin.com/in/dnyaneshwar-wagh-690455279/' target='_blank'><img src="https://i.imgur.com/R1dQaGF.png" width="50" height="50" /></a>
